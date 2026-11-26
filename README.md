@@ -4,9 +4,8 @@
 
 **A browser-based recreation of the Ubuntu Linux (GNOME) desktop environment — engineered from scratch in a single standalone HTML file.**
 
-[![Live Demo](https://shields.io)](https://github.io)
-[![Status](https://shields.io)]()
-[![Built With](https://shields.io)]()
+**[🌐 Live Demo](https://github.io)** &nbsp;•&nbsp; **`🚧 Status: In Development`** &nbsp;•&nbsp; **`⚡ HTML5 | CSS3 | Vanilla JS`**
+
 
 
 </div>
