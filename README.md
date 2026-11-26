@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./banner-light.png">
-  <img alt="Ubuntu Web Desktop Banner" src="./banner-dark.png" width="550">
+  <img alt="Ubuntu Web Desktop Banner" src="./banner-light.png" width="550">
 </picture>
 
 </div>
