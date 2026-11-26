@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.png">
   <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.png">
   <img alt="Ubuntu Web Desktop Banner" src="./banner-dark.png" width="550">
 </picture>
 
