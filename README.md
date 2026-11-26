@@ -4,9 +4,10 @@
 
 **A browser-based recreation of the Ubuntu Linux (GNOME) desktop environment — engineered from scratch in a single standalone HTML file.**
 
-[![Live Demo](https://shields.io🌐_Live_Demo-Launch_Desktop-E95420?style=for-the-badge)](https://github.io)
-[![Status](https://shields.io🚧_Status-In_Development-77216F?style=for-the-badge)]()
-[![Built With](https://shields.io⚡_Built_With-HTML5_%7C_CSS3_%7C_JS-2C001E?style=for-the-badge)]()
+[![Live Demo](https://shields.io)](https://github.io)
+[![Status](https://shields.io)]()
+[![Built With](https://shields.io)]()
+
 
 </div>
 
