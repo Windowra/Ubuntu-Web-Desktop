@@ -1,10 +1,12 @@
 <div align="center">
 
-![Ubuntu Web Desktop Banner](./banner.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./banner-light.png">
+  <img alt="Ubuntu Web Desktop Banner" src="./banner-dark.png" width="550">
+</picture>
 
-# 🐧 Ubuntu Web Desktop
-
-
+</div>
 **[🌐 Live Demo](https://github.io)** &nbsp;•&nbsp; **`🚧 Status: In Development`** &nbsp;•&nbsp; **`⚡ HTML5 | CSS3 | Vanilla JS`**
 
 
