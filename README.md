@@ -1,8 +1,9 @@
 <div align="center">
 
+![Ubuntu Web Desktop Banner](./banner.png)
+
 # 🐧 Ubuntu Web Desktop
 
-**A browser-based recreation of the Ubuntu Linux (GNOME) desktop environment — engineered from scratch in a single standalone HTML file.**
 
 **[🌐 Live Demo](https://github.io)** &nbsp;•&nbsp; **`🚧 Status: In Development`** &nbsp;•&nbsp; **`⚡ HTML5 | CSS3 | Vanilla JS`**
 
