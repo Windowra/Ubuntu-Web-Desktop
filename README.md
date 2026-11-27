@@ -13,8 +13,8 @@
 
 <div align="center">
 
-<img src=".github/assets/overview_white_text_transparent.png#gh-dark-mode-only" alt="Overview" width="550">
-<img src=".github/assets/overview_black_text_transparent.png#gh-light-mode-only" alt="Overview" width="550">
+<img src=".github/assets/overview_white_text_transparent.png#gh-dark-mode-only" alt="Overview" width="470">
+<img src=".github/assets/overview_black_text_transparent.png#gh-light-mode-only" alt="Overview" width="470">
 
 <br><br>
 
