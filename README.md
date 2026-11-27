@@ -9,7 +9,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 ╰──────────────────────────────────────────────────────────╯
 ```
 
----
+
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 + New built-in apps & deeper file system navigation
 ```
 
----
+
 
 <div align="center">
 
@@ -82,7 +82,7 @@
 * **Styling:** Custom CSS3 (Flexbox, Grid, GNOME/Yaru theming, custom animations)
 * **Logic:** Pure Vanilla JavaScript (Window state manager, virtual shell parser, audio engine)
 
----
+
 
 <div align="center">
 
@@ -101,7 +101,7 @@
 * [ ] Additional built-in apps (Browser, Calculator, Text Editor)
 * [ ] More terminal Easter eggs & system utilities
 
----
+
 
 <div align="center">
 
@@ -118,7 +118,7 @@ Want to run or inspect the code offline?
 2. **Open** `index.html` in any modern desktop web browser (Chrome, Firefox, Edge, Brave).
 3. *(Optional)* Press `F11` for an immersive full-screen Ubuntu experience!
 
----
+
 
 <div align="center">
 
