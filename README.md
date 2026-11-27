@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.png">
-  <img alt="Ubuntu Web Desktop Banner" src="./banner-dark.png" width="550">
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="Ubuntu Web Desktop Banner" src="https://githubusercontent.com" width="550">
 </picture>
 
 <br><br>
@@ -11,6 +11,7 @@
 <b><a href="https://github.io">🌐 Live Demo</a></b> &nbsp;•&nbsp; <code>🚧 Status: In Development</code> &nbsp;•&nbsp; <code>⚡ HTML5 | CSS3 | Vanilla JS</code>
 
 </div>
+
 
 
 
