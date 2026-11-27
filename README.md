@@ -38,40 +38,17 @@
 
 ---
 
-## ✦ Core Features
+## 🚀 Updates
 
-### 🖥️ Desktop Environment & Window Manager
-* **Authentic GNOME Shell UI** — Top panel with dynamic active-app switcher, system status tray, and left-hand Ubuntu dock.
-* **Yaru Dark Aesthetic** — Signature Aubergine (`#300A24`) terminal palette paired with Ubuntu Orange (`#E95420`) highlights.
-* **Multitasking & Workspaces** — Full **Activities Overview** with window spread, workspace switching, and multi-window focus layering.
-
-### ⌨️ Interactive Terminal (`100+` Commands)
-* **Built-in Text Editors** — Create and edit files directly inside the terminal using working **`vim`** and **`nano`** interfaces.
-* **Simulated Package Management** — Run `sudo apt install <package>` with authentication prompts and realistic installation output.
-* **System & File Utilities** — Supports `neofetch`, `ls`, `cat`, `grep`, `touch`, `mkdir`, `systemctl`, `help`, and more.
-* **Power-User Shortcuts** — Includes **Tab auto-completion**, command history, `Ctrl + L` (clear), and `Ctrl + C` (cancel).
-
-### 📂 Built-in Applications
-
-| App | Icon | Capabilities |
-| :--- | :---: | :--- |
-| **Terminal** | `>_` | Multi-tab shell with 100+ commands, `vim`, `nano`, and `neofetch` |
-| **Files** | `📁` | Standard Linux directory structure (`Home`, `Desktop`, `Documents`, `Downloads`, `Music`, `Pictures`, `Videos`, `snap`) |
-| **Settings** | `⚙️` | System configuration panels (`Wi-Fi`, `Network`, `Bluetooth`, `Appearance`, `Ubuntu Desktop`, and more) |
-| **Media Player** | `🎵` | Integrated desktop audio player with playback controls |
+### `v1.0` — Initial Public Release *(Latest)*
+* **🌐 Live Web Deployment:** Hosted **Ubuntu Web Desktop** live on GitHub Pages with custom Light/Dark theme README banners.
+* **⌨️ Interactive Terminal (`100+` Commands):** Added full command execution including `neofetch`, `sudo apt install`, `ls`, `cat`, `grep`, `systemctl`, and `help` with **Tab auto-completion** and `Ctrl+L` / `Ctrl+C` shortcuts.
+* **📝 Built-in Terminal Editors:** Implemented working **`vim`** and **`nano`** text editors directly inside the terminal.
+* **🖥️ GNOME Shell & Multitasking:** Built the Yaru Dark desktop layout, top-bar active app switcher, **Activities Overview** with workspace switching, and layered window management.
+* **📂 Core Desktop Apps:** Added **Files** directory browser, **Settings** configuration panels, and an integrated **Media Player**.
 
 ---
 
-## ⌨️ Terminal Quick Reference
-
-| Command / Shortcut | Action |
-| :--- | :--- |
-| `help` | Display the full list of 100+ supported commands |
-| `neofetch` | Print ASCII Ubuntu logo & system specifications |
-| `nano <file>` / `vim <file>` | Open the interactive terminal text editors |
-| `sudo apt install <pkg>` | Simulate installing a software package |
-| `Tab` | Auto-complete commands |
-| `Ctrl + L` / `Ctrl + C` | Clear terminal screen / Cancel current input |
 
 ---
 
