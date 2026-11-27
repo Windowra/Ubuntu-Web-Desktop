@@ -1,16 +1,14 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-light.png">
-  <source media="(prefers-color-scheme: light)" srcset="banner-dark.png">
-  <img alt="Ubuntu Web Desktop Banner" src="banner-light.png" width="550">
-</picture>
+<img src="banner-light.png#gh-dark-mode-only" alt="Ubuntu Web Desktop Banner" width="550">
+<img src="banner-dark.png#gh-light-mode-only" alt="Ubuntu Web Desktop Banner" width="550">
 
 <br><br>
 
 <b><a href="https://github.io">🌐 Live Demo</a></b> &nbsp;•&nbsp; <code>🚧 Status: In Development</code> &nbsp;•&nbsp; <code>⚡ HTML5 | CSS3 | Vanilla JS</code>
 
 </div>
+
 
 
 
