@@ -10,9 +10,13 @@
 </div>
 
 ---
+<div align="center">
 
-<img src=".github/assets/overview_white_text_transparent.png#gh-dark-mode-only" alt="Overview" width="260">
-<img src=".github/assets/overview_black_text_transparent.png#gh-light-mode-only" alt="Overview" width="260">
+<img src=".github/assets/overview_white_text_transparent.png#gh-dark-mode-only" alt="Overview" width="420">
+<img src=".github/assets/overview_black_text_transparent.png#gh-light-mode-only" alt="Overview" width="420">
+
+</div>
+
 
 
 
