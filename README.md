@@ -103,7 +103,14 @@
 
 ---
 
-## 🚀 Run Locally
+<div align="center">
+
+<img src=".github/assets/runlocally_white_text_transparent.png#gh-dark-mode-only" alt="RunLocally" width="450">
+<img src=".github/assets/runlocally_black_text_transparent.png#gh-light-mode-only" alt="RunLocally" width="450">
+
+<br><br>
+
+</div>
 
 Want to run or inspect the code offline?
 
