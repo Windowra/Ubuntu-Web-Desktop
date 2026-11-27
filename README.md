@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="banner-light.png#gh-dark-mode-only" alt="Ubuntu Web Desktop Banner" width="550">
-<img src="banner-dark.png#gh-light-mode-only" alt="Ubuntu Web Desktop Banner" width="550">
+<img src="banner-light.png#gh-dark-mode-only" alt="Ubuntu Web Desktop Banner" width="650">
+<img src="banner-dark.png#gh-light-mode-only" alt="Ubuntu Web Desktop Banner" width="650">
 
 <br><br>
 
@@ -13,8 +13,8 @@
 
 <div align="center">
 
-<img src=".github/assets/overview_white_text_transparent.png#gh-dark-mode-only" alt="Overview" width="500">
-<img src=".github/assets/overview_black_text_transparent.png#gh-light-mode-only" alt="Overview" width="500">
+<img src=".github/assets/overview_white_text_transparent.png#gh-dark-mode-only" alt="Overview" width="550">
+<img src=".github/assets/overview_black_text_transparent.png#gh-light-mode-only" alt="Overview" width="550">
 
 <br><br>
 
