@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="banner-light.png#gh-dark-mode-only" alt="Ubuntu Web Desktop Banner" width="650">
-<img src="banner-dark.png#gh-light-mode-only" alt="Ubuntu Web Desktop Banner" width="650">
+<img src="banner-light.png#gh-dark-mode-only" alt="Ubuntu Web Desktop Banner" width="550">
+<img src="banner-dark.png#gh-light-mode-only" alt="Ubuntu Web Desktop Banner" width="550">
 
 <br><br>
 
-<b><a href="https://github.io">🌐 Live Demo</a></b> &nbsp;•&nbsp; <b><a href="https://discord.gg/dKfwbU4Fk">💬 Discord</a></b> &nbsp;•&nbsp; <code>🚧 Status: In Development</code> &nbsp;•&nbsp; <code>⚡ HTML5 | CSS3 | Vanilla JS</code>
+<code>🚧 Status: In Development</code> &nbsp;•&nbsp; <code>⚡ HTML5 | CSS3 | Vanilla JS</code>
 
 </div>
+
 
 
 
