@@ -39,24 +39,22 @@
 ## 🚀 Updates
 
 ```text
-╭──────────────────────────────────────────────────────────────────
-│  ● ● ●   changelog.log — ubuntu@ubuntu: ~
-├──────────────────────────────────────────────────────────────────
-│
-│  [v1.0] Initial Public Release (Latest)
-│  + Deployed Ubuntu Web Desktop live on GitHub Pages
-│  + Added interactive Terminal with 100+ commands & Tab completion
-│  + Built working vim and nano text editors inside the terminal
-│  + Created GNOME Shell UI, Yaru Dark theme & Activities Overview
-│  + Added Files browser, Settings panels, and integrated Media Player
-│
-│  [Next] Coming Soon...
-│  + New built-in apps & deeper file system navigation
-│
-╰──────────────────────────────────────────────────────────────────
+● ● ●   changelog.log — ubuntu@ubuntu: ~
+────────────────────────────────────────────────────────────
+
+[v1.0] Initial Public Release (Latest)
++ Deployed Ubuntu Web Desktop live on GitHub Pages
++ Added interactive Terminal with 100+ commands & Tab completion
++ Built working vim and nano text editors inside the terminal
++ Created GNOME Shell UI, Yaru Dark theme & Activities Overview
++ Added Files browser, Settings panels, and integrated Media Player
+
+[Next] Coming Soon...
++ New built-in apps & deeper file system navigation
 ```
 
 ---
+
 
 
 
