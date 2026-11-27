@@ -53,15 +53,13 @@
 ● ● ●   changelog.log — ubuntu@ubuntu: ~
 ────────────────────────────────────────────────────────────
 
-[v1.0] Initial Public Release (Latest)
-+ Deployed Ubuntu Web Desktop live on GitHub Pages
-+ Added interactive Terminal with 100+ commands & Tab completion
-+ Built working vim and nano text editors inside the terminal
-+ Created GNOME Shell UI, Yaru Dark theme & Activities Overview
-+ Added Files browser, Settings panels, and integrated Media Player
+[v1.1] Music Man VS Video Man Update
++ Plays different types of music file OR video file
++ new playlist side panel
++ can upload your video or music into your main PC to the Ubuntu Linux Video Player!
 
 [Next] Coming Soon...
-+ New built-in apps & deeper file system navigation
+Music Player App...
 ```
 
 
