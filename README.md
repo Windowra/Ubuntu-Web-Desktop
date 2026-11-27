@@ -11,7 +11,9 @@
 
 ---
 
-## ◈ Overview
+<img src=".github/assets/overview-light.png#gh-dark-mode-only" alt="Overview" width="260">
+<img src=".github/assets/overview-dark.png#gh-light-mode-only" alt="Overview" width="260">
+
 
 **Ubuntu Web Desktop** brings the look, feel, and command-line workflow of **Ubuntu 26.04 LTS (GNOME + Yaru Dark)** straight into your web browser—with **zero external frameworks, zero build tools, and zero dependencies**.
 
