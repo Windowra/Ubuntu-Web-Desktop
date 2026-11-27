@@ -38,7 +38,15 @@
 
 ---
 
-## 🚀 Updates
+<div align="center">
+
+<img src=".github/assets/updates_white_text_transparent.png#gh-dark-mode-only" alt="Updates" width="420">
+<img src=".github/assets/updates_black_text_transparent.png#gh-light-mode-only" alt="Updates" width="420">
+
+<br><br>
+
+</div>
+
 
 ```text
 ● ● ●   changelog.log — ubuntu@ubuntu: ~
