@@ -96,9 +96,9 @@ Music Player App...
 * [x] Interactive Terminal with 100+ commands & Tab completion
 * [x] Working `vim` and `nano` terminal editors
 * [x] Settings & File Manager UI + Media Player
-* [ ] Deep interactive file system & folder navigation
-* [ ] Additional built-in apps (Browser, Calculator, Text Editor)
-* [ ] More terminal Easter eggs & system utilities
+* [x] Deep interactive file system & folder navigation
+* [x] Additional built-in apps (Browser, Calculator, Text Editor)
+* [x] More terminal Easter eggs & system utilities
 
 
 
