@@ -84,7 +84,14 @@
 
 ---
 
-## 🗺️ Development Roadmap
+<div align="center">
+
+<img src=".github/assets/roadmap_white_text_transparent.png#gh-dark-mode-only" alt="RoadMaps" width="450">
+<img src=".github/assets/roadmap_white_text_transparent.png#gh-light-mode-only" alt="RoadMaps" width="450">
+
+<br><br>
+
+</div>
 
 * [x] GNOME Desktop layout, Dock, Top Bar & Activities Overview
 * [x] Interactive Terminal with 100+ commands & Tab completion
