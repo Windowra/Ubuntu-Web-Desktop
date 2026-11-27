@@ -123,8 +123,9 @@ Want to run or inspect the code offline?
 <div align="center">
 
 <b>Crafted with ❤️ over 3–5 months by <a href="https://github.com">@Windowra</a></b>
-<br>
-<a href="https://discord.com/invite/RqKqNBgk6a"><img src=".github/assets/discord_icon_transparent.png" alt="Discord" width="22" align="absmiddle"></a> &nbsp;&nbsp; <a href="https://youtube.com"><img src=".github/assets/youtube_icon_transparent.png" alt="YouTube" width="22" align="absmiddle"></a> &nbsp;&nbsp; <a href="https://twitch.tv"><img src=".github/assets/twitch_icon_transparent.png" alt="Twitch" width="22" align="absmiddle"></a>
+<br><br>
+
+<a href="https://discord.com/invite/RqKqNBgk6a"><img src=".github/assets/discord_icon_transparent.png" alt="Discord" width="33" align="absmiddle"></a> &nbsp;&nbsp; <a href="https://youtube.com"><img src=".github/assets/youtube_icon_transparent.png" alt="YouTube" width="33" align="absmiddle"></a> &nbsp;&nbsp; <a href="https://twitch.tv"><img src=".github/assets/twitch_icon_transparent.png" alt="Twitch" width="33" align="absmiddle"></a>
 
 </div>
 
