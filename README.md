@@ -65,7 +65,14 @@
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
+
+<img src=".github/assets/updates_white_text_transparent.png#gh-dark-mode-only" alt="TechStack" width="450">
+<img src=".github/assets/updates_black_text_transparent.png#gh-light-mode-only" alt="TechStack" width="450">
+
+<br><br>
+
+</div>
 
 ```text
 ├── index.html   ──► Complete Desktop UI, Stylesheet (CSS3), & OS Logic (Vanilla JS)
