@@ -122,6 +122,6 @@ Want to run or inspect the code offline?
 
 <div align="center">
 
-**Crafted with ❤️ over 3–5 months by [@Windowra](https://github.com)** • **[Join the Discord](https://discord.gg/dKfwbU4Fk)**
+**Crafted with ❤️ over 3–5 months by [@Windowra](https://github.com)** • <b><a href="https://discord.gg"><img src=".github/assets/discord_icon_transparent.png" width="16" align="absmiddle"> Discord</a></b>
 
 </div>
