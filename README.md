@@ -122,7 +122,8 @@ Want to run or inspect the code offline?
 
 <div align="center">
 
-<b>Crafted with ❤️ over 3–5 months by <a href="https://github.com">@Windowra</a></b> &nbsp;•&nbsp; <b><a href="https://discord.gg/RqKqNBgk6a"><img src=".github/assets/discord_icon_transparent.png" width="15" align="absmiddle"> Join the Discord</a></b>
+<b>Crafted with ❤️ over 3–5 months by <a href="https://github.com">@Windowra</a></b> &nbsp;•&nbsp; <a href="https://discord.gg"><img src=".github/assets/discord_icon_transparent.png" alt="Join Buck Central Discord" width="22" align="absmiddle"></a>
+
 
 
 </div>
