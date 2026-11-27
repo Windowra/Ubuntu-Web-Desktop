@@ -1,13 +1,16 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.png">
-  <img alt="Ubuntu Web Desktop Banner" src="./banner-light.png" width="550">
+  <source media="(prefers-color-scheme: dark)" srcset="./ubuntu_web_desktop_light_transparent%20(2).png">
+  <source media="(prefers-color-scheme: light)" srcset="./ubuntu_web_desktop_transparent.png">
+  <img alt="Ubuntu Web Desktop Banner" src="./ubuntu_web_desktop_light_transparent%20(2).png" width="550">
 </picture>
 
+<br><br>
+
+<b><a href="https://github.io">🌐 Live Demo</a></b> &nbsp;•&nbsp; <code>🚧 Status: In Development</code> &nbsp;•&nbsp; <code>⚡ HTML5 | CSS3 | Vanilla JS</code>
+
 </div>
-**[🌐 Live Demo](https://github.io)** &nbsp;•&nbsp; **`🚧 Status: In Development`** &nbsp;•&nbsp; **`⚡ HTML5 | CSS3 | Vanilla JS`**
 
 
 
