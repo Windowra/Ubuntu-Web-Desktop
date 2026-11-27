@@ -125,7 +125,7 @@ Want to run or inspect the code offline?
 <b>Crafted with ❤️ over 3–5 months by <a href="https://github.com">@Windowra</a></b>
 <br><br>
 
-<a href="https://discord.com/invite/RqKqNBgk6a"><img src=".github/assets/discord_icon_transparent.png" alt="Discord" width="33" align="absmiddle"></a> &nbsp;&nbsp; <a href="https://youtube.com"><img src=".github/assets/youtube_icon_transparent.png" alt="YouTube" width="33" align="absmiddle"></a> &nbsp;&nbsp; <a href="https://twitch.tv"><img src=".github/assets/twitch_icon_transparent.png" alt="Twitch" width="33" align="absmiddle"></a>
+<a href="https://discord.com/invite/RqKqNBgk6a"><img src=".github/assets/discord_icon_transparent.png" alt="Discord" width="33" align="absmiddle"></a> &nbsp;&nbsp; <a href="https://youtube.com/@KaizenoXD"><img src=".github/assets/youtube_icon_transparent.png" alt="YouTube" width="33" align="absmiddle"></a> &nbsp;&nbsp; <a href="https://twitch.tv/kaizeno_xd"><img src=".github/assets/twitch_icon_transparent.png" alt="Twitch" width="33" align="absmiddle"></a>
 
 </div>
 
