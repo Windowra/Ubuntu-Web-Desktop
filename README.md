@@ -119,12 +119,12 @@ Want to run or inspect the code offline?
 3. *(Optional)* Press `F11` for an immersive full-screen Ubuntu experience!
 
 
-
 <div align="center">
 
-<b>Crafted with ❤️ over 3–5 months by <a href="https://github.com">@Windowra</a></b> &nbsp;•&nbsp; <a href="[https://discord.com]"><img src=".github/assets/discord_icon_transparent.png" alt="Join Buck Central Discord" width="20" align="absmiddle"></a>
+<b>Crafted with ❤️ over 3–5 months by <a href="https://github.com">@Windowra</a></b> &nbsp;•&nbsp; <a href="https://discord.com"><img src=".github/assets/discord_icon_transparent.png" alt="Join Buck Central Discord" width="20" align="absmiddle"></a>
 
 </div>
+
 
 
 
