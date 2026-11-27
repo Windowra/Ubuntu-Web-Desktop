@@ -5,15 +5,7 @@
 
 <br><br>
 
-<b><a href="https://github.io">🌐 Live Demo</a></b> &nbsp;•&nbsp; <code>🚧 Status: In Development</code> &nbsp;•&nbsp; <code>⚡ HTML5 | CSS3 | Vanilla JS</code>
-
-</div>
-
-
-
-
-
-
+<b><a href="https://github.io">🌐 Live Demo</a></b> &nbsp;•&nbsp; <b><a href="https://discord.gg/dKfwbU4Fk">💬 Discord</a></b> &nbsp;•&nbsp; <code>🚧 Status: In Development</code> &nbsp;•&nbsp; <code>⚡ HTML5 | CSS3 | Vanilla JS</code>
 
 </div>
 
@@ -34,6 +26,8 @@
 ╰──────────────────────────────────────────────────────────╯
 ```
 
+---
+
 ## 🚀 Updates
 
 ```text
@@ -50,11 +44,6 @@
 [Next] Coming Soon...
 + New built-in apps & deeper file system navigation
 ```
-
----
-
-
-
 
 ---
 
@@ -94,6 +83,6 @@ Want to run or inspect the code offline?
 
 <div align="center">
 
-**Crafted with ❤️ over 3–5 months by [@Windowra](https://github.com)**
+**Crafted with ❤️ over 3–5 months by [@Windowra](https://github.com)** • **[Join the Discord](https://discord.gg/dKfwbU4Fk)**
 
 </div>
