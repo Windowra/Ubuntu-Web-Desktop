@@ -40,12 +40,22 @@
 
 ## 🚀 Updates
 
-### `v1.0` — Initial Public Release *(Latest)*
-* **🌐 Live Web Deployment:** Hosted **Ubuntu Web Desktop** live on GitHub Pages with custom Light/Dark theme README banners.
-* **⌨️ Interactive Terminal (`100+` Commands):** Added full command execution including `neofetch`, `sudo apt install`, `ls`, `cat`, `grep`, `systemctl`, and `help` with **Tab auto-completion** and `Ctrl+L` / `Ctrl+C` shortcuts.
-* **📝 Built-in Terminal Editors:** Implemented working **`vim`** and **`nano`** text editors directly inside the terminal.
-* **🖥️ GNOME Shell & Multitasking:** Built the Yaru Dark desktop layout, top-bar active app switcher, **Activities Overview** with workspace switching, and layered window management.
-* **📂 Core Desktop Apps:** Added **Files** directory browser, **Settings** configuration panels, and an integrated **Media Player**.
+```text
+╭────────────────────────────────────────────────────────────────────────╮
+│  ● ● ●   changelog.log — ubuntu@ubuntu: ~                              │
+├────────────────────────────────────────────────────────────────────────┤
+│  [v1.0] Initial Public Release (Latest)                                │
+│  ────────────────────────────────────────────────────────────────────  │
+│  + Deployed Ubuntu Web Desktop live on GitHub Pages                    │
+│  + Added interactive Terminal with 100+ commands & Tab completion      │
+│  + Built working vim and nano text editors inside the terminal         │
+│  + Created GNOME Shell UI, Yaru Dark theme & Activities Overview       │
+│  + Added Files browser, Settings panels, and integrated Media Player   │
+│                                                                        │
+│  [Next] Coming Soon...                                                 │
+│  + New built-in apps & deeper file system navigation                   │
+╰────────────────────────────────────────────────────────────────────────╯
+```
 
 ---
 
