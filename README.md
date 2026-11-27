@@ -20,8 +20,6 @@
 
 
 
-</div>
-
 **Ubuntu Web Desktop** brings the look, feel, and command-line workflow of **Ubuntu 26.04 LTS (GNOME + Yaru Dark)** straight into your web browser—with **zero external frameworks, zero build tools, and zero dependencies**.
 
 ```text
