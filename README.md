@@ -53,13 +53,13 @@
 ● ● ●   changelog.log — ubuntu@ubuntu: ~
 ────────────────────────────────────────────────────────────
 
-[v1.1] Music Man VS Video Man Update
-+ Plays different types of music file OR video file
-+ new playlist side panel
-+ can upload your video or music into your main PC to the Ubuntu Linux Video Player!
+[v1.2] RhythmBox Update 
++ New Music , Radio station and more through the app
++ Can be played different music file
++ Better then Spotify or Music!
 
 [Next] Coming Soon...
-Music Player App...
+File Thumbnail update...
 ```
 
 
